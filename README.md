@@ -1,2 +1,3 @@
-# meu--primeiro--prortfolio
-meu protefolio profissinal de desenvolvedor tencnico desenlvoimento de sitema
+ lisiane lopes manoel
+ sobre mimi gosto de fazer tudo
+ tecnologias que estou apredendo devolmito de sitemar
